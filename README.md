@@ -21,6 +21,7 @@ The program accepts the following inputs from the user:
 The program also reads input from a text file (top_english_nouns_lower_100000.txt) containing a list of English words used to generate memorable passwords.
 #
 **c) Expected Output**
+
 The program outputs a generated password based on the user’s selections.
 Each generated password is also saved to a text file along with the date and time it was created.
 
@@ -30,6 +31,7 @@ Each generated password is also saved to a text file along with the date and tim
 When generating multiple passwords, the program actually confirms succesfull creation and logging of each password.
 #
 **d) Type of Execution**
+
 This program uses the following execution types:
 - Sequential Execution: The program runs from top to bottom, following a logical sequence of steps.
 
@@ -40,6 +42,7 @@ This program uses the following execution types:
 - Modular Execution: The program is organized into functions and methods to improve readability and reusability.
 #
 **e) Possible Improvements**
+
 The possible improvements to this program may include:
 - Adding additional password strength checks
 - Improving input validation and error handling
